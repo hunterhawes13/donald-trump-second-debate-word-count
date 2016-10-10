@@ -1,6 +1,6 @@
 ## Synopsis
 
-I made a word count for the top 100 words Donald Trump said in the 2nd dresidential debate
+I made a word count for the top 100 words and the number of occurances that Donald Trump said in the 2nd presidential debate.
 
 ## Code Example
 ```
