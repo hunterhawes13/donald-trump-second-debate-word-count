@@ -3,7 +3,8 @@
 I made a word count for the top 100 words Donald Trump said in the 2nd dresidential debate
 
 ## Code Example
-```var text = "";
+```
+var text = "";
 var wordRegExp = /\w+(?:'\w{1,2})?/g;
 var words = {};
 var matches;
@@ -40,6 +41,7 @@ for (var i = 0; i < n; i++)
                  (wordList[i][1] == 1 ? "" : "s"));
 }
 ```
+
 ## Motivation
 
 Curosity by the frequency of hearing repetitive words from Donald Trump  
