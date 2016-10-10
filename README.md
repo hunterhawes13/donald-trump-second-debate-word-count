@@ -64,9 +64,9 @@ This project is licensed under the terms of the MIT license.
 "The top 100 words are:
 
 the - 150 occurances
-
+---
 and - 120 occurances
-
+---
 to - 103 occurances
 
 i - 90 occurances
