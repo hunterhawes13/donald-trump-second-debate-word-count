@@ -28,7 +28,7 @@ for (var word in words)
 }
 wordList.sort(function(a, b) { return b[1] - a[1]; });
 
-// Come back any time, straaanger!
+// lets see what donny had to say
 var n = 100;
 var message = ["The top " + n + " words are:"];
 for (var i = 0; i < n; i++)
