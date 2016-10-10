@@ -1,6 +1,6 @@
 ## Synopsis
 
-I made a word count for the top 100 words and the number of occurances that Donald Trump said in the 2nd presidential debate.
+I made a word count for each word and the number of occurances that Donald Trump said it in the 2nd presidential debate.
 
 "The top 100 words are:
 
@@ -1266,3 +1266,6 @@ woman - 1 occurance
 viciously - 1 occurance
 
 five - 1 occurance"
+
+
+###"I know words, I have the best words, but their is no better word than stupid"
